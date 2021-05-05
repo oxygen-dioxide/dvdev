@@ -1,0 +1,9 @@
+I"<p>Easiest way of getting Paper work is forking.</p>
+
+<ul>
+  <li>Fork the <a href="https://github.com/dbtek/paper">repo</a>.</li>
+  <li>Rename forked repo as <code>username.github.io</code>.</li>
+  <li>Set up blog by editing <code>_config.yml</code>.</li>
+  <li>Enjoy.</li>
+</ul>
+:ET

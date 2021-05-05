@@ -1,0 +1,17 @@
+I"ˆ<p>A new material design utilising theme for your Jekyll blog. Built on <a href="http://www.getmdl.io/">Material Design Lite</a>.</p>
+
+<p>##<i class="material-icons">battery_charging_full</i> Batteries Included</p>
+
+<p>There are many cool features bundled with Paper such as:</p>
+
+<ul>
+  <li>Full Github Pages support.</li>
+  <li>Responsive layout.</li>
+  <li>Dynamic search with <a href="https://github.com/christian-fei/Simple-Jekyll-Search/">jekyll-search</a>.</li>
+  <li>Post tags and categories.</li>
+  <li>Autor Github, Twitter, bio.</li>
+  <li>Pagination.</li>
+  <li>Syntax highlighting with pygments.</li>
+  <li>Disqus comments.</li>
+</ul>
+:ET

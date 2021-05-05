@@ -17,16 +17,16 @@ disqus: # add disqus shortname here
 
 # author info
 # add your appropriate info here
-author: # your name
-bio:    # your bio
-email:
-email_md5: # md5 hash of your email
-twitter_username:
-github_username:
+#author: # your name
+#bio:    # your bio
+#email: 
+#email_md5: # md5 hash of your email
+#twitter_username:
+#github_username:
 
 # Theming options
 # These settings are mandatory.
-theme:              'blue-pink'
+#theme:              'blue-pink'
 # drawer theming
 drawer:
   text_color:       'grey-600'
